@@ -13,3 +13,8 @@ $npx create-react-app
 - public 폴더에서 index.html , favicon.ico 파일만 제외하고 모두 삭제
 - src 폴더에서 app.js, index.js 파일만 제외하고 모두 삭제
 - src 폴더에서 app.js, index.js 필요없는 코드라인 삭제
+
+3. install React Router
+```
+$npm install react-router-dom
+```
