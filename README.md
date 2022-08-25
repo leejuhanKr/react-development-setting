@@ -20,3 +20,11 @@ $npm install react-router-dom
 ```
 
 4. src 폴더 정리, .env 파일 생성
+
+5. eslint-config-airbnb && pritter
+```
+$eslint-config-airbnb
+```
+- .eslintrc.js 생성
+- .prettierrc.js 생성
+[참고](https://velog.io/@cookncoding/ESLint-Prettier-Airbnb-Style-Guide%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
