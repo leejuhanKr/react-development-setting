@@ -18,3 +18,5 @@ $npx create-react-app
 ```
 $npm install react-router-dom
 ```
+
+4. src 폴더 정리, .env 파일 생성
